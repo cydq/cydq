@@ -14,6 +14,9 @@
       I program things for fun!
     </p>
     <br />
+    <h3>🤖 Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,js,ts,py,java,kotlin,elixr,go,html,css,github&perline=7" />
+    <br /><br />
     <h3>👨‍💻 Projects</h3>
     <p>
       <i>It doesn't look like I'm doing much right now.<br />Maybe one day that'll change!</i>
