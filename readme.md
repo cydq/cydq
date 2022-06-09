@@ -15,7 +15,7 @@
     </p>
     <br />
     <h3>🤖 Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,js,ts,py,java,kotlin,elixr,go,html,css,github&perline=7" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,js,ts,py,java,kotlin,elixir,go,html,css,github&perline=7" />
     <br /><br />
     <h3>👨‍💻 Projects</h3>
     <p>
