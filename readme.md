@@ -23,6 +23,6 @@
     </p>
     <br />
     <h3>📊 GitHub Stats</h3>
-    <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irj&theme=tokyonight" /></a>
+    <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cynquil&theme=tokyonight" /></a>
   </samp>
 </div>
