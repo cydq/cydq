@@ -1,4 +1,4 @@
-[![](https://github.com/irj/irj/blob/main/header.png?raw=true)](#)
+<!-- [![](https://github.com/irj/irj/blob/main/header.png?raw=true)](#)
 <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/WmGSVBwY5H)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/brian.shao)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/aercie)
@@ -9,7 +9,7 @@
 <div align="center">
   <samp>
     <br />
-    <h3>💫 About Me</h3>
+    <h3>💫 Hello!</h3>
     <p>
       I program things for fun!
     </p>
